@@ -1,0 +1,57 @@
+.footer {
+    background-image: url('https://risingtheme.com/html/rokon-demo/rokon/assets/img/other/footer-bg.webp');   
+    background-position: center center;
+    background-size: cover;
+    padding: 3rem;
+    color: #E6E6E6;
+  }
+  
+  .footer h3 {
+    color: #FFFFFF;
+  }
+  
+  .footer__content p {
+    font-size: 1.4rem;
+  }
+  
+  .footer__content-tel-mail:first-of-type {
+    margin-bottom: .5rem;
+  }
+  
+  .footer__content-tel-mail a {
+    text-decoration: none;
+    margin-left: 1rem;
+    color: #FFFFFF;
+  }
+  
+  .footer__list {
+    padding: 0;
+  }
+  
+  .footer__list li {
+    margin-bottom: 1.5rem;
+    gap: 2rem;
+  }
+  
+  .footer__list li a {
+    display: flex;
+    text-decoration: none;
+    color: #E6E6E6;
+  }
+  
+  .footer__list li a:hover,
+  .footer__conditions-policy a:hover {
+    transition: all .1s;
+    color: #D72323;
+  }
+  
+  .footer__list li a .bx {
+    font-size: 2.3rem;
+    margin-right: 1rem;
+  }
+  
+  .footer__conditions-policy a {
+    text-decoration: none;
+    font-weight: light;
+    color: #E6E6E6;
+  }
